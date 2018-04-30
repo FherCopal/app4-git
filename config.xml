@@ -5,14 +5,14 @@
  id ="com.phonegap.app3"
  version ="1.0.0">
 
- <name>app3 Dia Mundial de la Bicicleta</name>
+ <name>app4 Contaminacion Ambiental</name>
 
  <description>
- Aplicacion que muestra informacion sobe el dia Mundial de la Bicicleta
+ Aplicacion que muestra informacion sobe la contaminacion ambiental
  </description>
  
- <author href="https://build.phonegap.com" email="david_4748@outlook.com">
- Jose David Hernandez Ochoa
+ <author href="https://build.phonegap.com" email="Jack1117.jed@gmail.com">
+ Fernando Espinoza Copalcuatzin
  </author>
  
  <!--Personaliza la aplicaion y la plataforma-->
